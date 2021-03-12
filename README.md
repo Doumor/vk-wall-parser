@@ -10,9 +10,11 @@ First you need to add your token in the index.js file
 ## Usage
 ```
 Instal dependences
-# npm install 
+# npm install
+
 Run parser
-# node index *Full url* 
+# node index *Full url*
+
 For stdout in file
 # node index *Full url* txt
 ```
