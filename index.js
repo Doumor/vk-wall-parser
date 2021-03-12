@@ -11,7 +11,7 @@ function log(data) {
 }
 
 const vk = new VK({
-	token: "b7b56d211761a25e5e6e8f0823a4238a6db57b250ddfa074976dd970dba2128141c0f825d2327db8da2df"
+	token: "" // b7b56d211761a25e5e6e8f...
 });
 
 
